@@ -1,0 +1,51 @@
+body{
+  background-image: url(background.jpg);
+  font-family:"Century Gothic", sans-serif;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+}
+.container{
+  width: 1000px;
+  padding: 70px;
+  background-color:rgba(0,0,0,0.5);
+  border-radius: 10px 10px 10px 10px;
+  margin: auto;
+}
+.logo{
+width: 250px;
+}
+#titolo{
+  color: lime;
+  margin: 10px;
+}
+nav{
+  background-color: lime;
+  padding: 10px;
+}
+.Monopattini{
+  margin-top: 20px;
+}
+.Modello{
+  margin: auto;
+display: inline-block;
+}
+.rectangleorange{
+  width: 35%;
+  height: 25px;
+  background: orange;
+  border-radius: 5px 5px 5px 5px;
+}
+.rectanglelime{
+  width: 60%;
+  height: 25px;
+  background: lime;
+  border-radius: 5px 5px 5px 5px;
+}
+.rectanglered{
+  width: 15%;
+  height: 25px;
+  background: red;
+  border-radius: 5px 5px 5px 5px;
+}
